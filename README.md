@@ -1,9 +1,9 @@
 # Life Expectancy Prediction
 
 
-### Poject Overview
+### Project Overview
 
-This project predicts life expectancy using socio-economic and health indicators from the Life Expectancy dataset on Kaggle. After data cleaning, imputation, and feature selection, multiple models were tested. The Random Forest Regressor achieved the best performance (R² = 0.96, RMSE = 1.84). 
+This project predicts life expectancy using socio-economic and health indicators from the Life Expectancy dataset on Kaggle. After data cleaning, imputation, and feature selection, multiple models were tested. The Random Forest Regressor achieved the best performance. 
 
 Future improvements include hyperparameter tuning and using updated datasets for broader policy insights.
 
@@ -15,6 +15,7 @@ Future improvements include hyperparameter tuning and using updated datasets for
 - Feature engineering.
 - Develop and evaluate multiple machine learning models — Linear Regression, Random Forest Regressor, and Gradient Boosting Regressor.
 - Compare model performance using R² score, RMSE, and MAE metrics.
+  
 
 ### Data source
 
@@ -22,9 +23,11 @@ https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
 
 This dataset contains life expectancy data for various countries, along with economic, social, and health-related variables compiled by the World Health Organization (WHO).
 
+
 ### Tools
 
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+
 
 ### Key Steps
 
